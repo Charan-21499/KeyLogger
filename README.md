@@ -8,7 +8,9 @@ run the following commands to download the requirements
 
 
 pip install pynput
+
 pip install smtplib
+
 pip install threading
 
 after installing all modules completly you can run the script on a victim meachine.
